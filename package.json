@@ -58,7 +58,7 @@
   "_resolved": "git+https://github.com/RGRU/gulp-rgswig-pravo.git#5d2fef1a467039111495242a3a38fb8ce4bc0de4",
   "_shasum": "98f693123884693d524cfe7e27effcbfaf48ef0d",
   "_shrinkwrap": null,
-  "_spec": "gulp-rgswig@git+https://github.com/RGRU/gulp-rgswig-pravo.git",
+  "_spec": "gulp-rgswig-pravo@git+https://github.com/RGRU/gulp-rgswig-pravo.git",
   "_where": "/var/www/pravo",
   "author": {
     "name": "RG team"
@@ -87,9 +87,9 @@
     "swig"
   ],
   "main": "index.js",
-  "name": "gulp-rgswig",
+  "name": "gulp-rgswig-pravo",
   "optionalDependencies": {},
-  "readme": "# gulp-rgswig\n\nPlugin for compile swig templates",
+  "readme": "# gulp-rgswig-pravo\n\nPlugin for compile swig templates",
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
