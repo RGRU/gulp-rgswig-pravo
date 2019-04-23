@@ -1,15 +1,15 @@
 {
   "_args": [
     [
-      "gulp-rgswig@git+https://github.com/nanomen/gulp-rgswig.git",
+      "gulp-rgswig-pravo@git+https://github.com/RGRU/gulp-rgswig-pravo.git",
       "/var/www/pravo"
     ]
   ],
-  "_from": "git+https://github.com/nanomen/gulp-rgswig.git",
-  "_id": "gulp-rgswig@0.1.0",
+  "_from": "git+https://github.com/RGRU/gulp-rgswig-pravo.git",
+  "_id": "gulp-rgswig-pravo@0.1.0",
   "_inCache": true,
   "_installable": true,
-  "_location": "/gulp-rgswig",
+  "_location": "/gulp-rgswig-pravo",
   "_phantomChildren": {
     "clone-stats": "0.0.1",
     "core-util-is": "1.0.2",
@@ -37,34 +37,34 @@
   },
   "_requested": {
     "hosted": {
-      "directUrl": "https://raw.githubusercontent.com/nanomen/gulp-rgswig/master/package.json",
-      "gitUrl": "git://github.com/nanomen/gulp-rgswig.git",
-      "httpsUrl": "git+https://github.com/nanomen/gulp-rgswig.git",
-      "shortcut": "github:nanomen/gulp-rgswig",
-      "ssh": "git@github.com:nanomen/gulp-rgswig.git",
-      "sshUrl": "git+ssh://git@github.com/nanomen/gulp-rgswig.git",
+      "directUrl": "https://raw.githubusercontent.com/RGRU/gulp-rgswig-pravo/master/package.json",
+      "gitUrl": "git://github.com/RGRU/gulp-rgswig-pravo.git",
+      "httpsUrl": "git+https://github.com/RGRU/gulp-rgswig-pravo.git",
+      "shortcut": "github:RGRU/gulp-rgswig-pravo",
+      "ssh": "git@github.com:RGRU/gulp-rgswig-pravo.git",
+      "sshUrl": "git+ssh://git@github.com:RGRU/gulp-rgswig-pravo.git",
       "type": "github"
     },
-    "name": "gulp-rgswig",
-    "raw": "gulp-rgswig@git+https://github.com/nanomen/gulp-rgswig.git",
-    "rawSpec": "git+https://github.com/nanomen/gulp-rgswig.git",
+    "name": "gulp-rgswig-pravo",
+    "raw": "gulp-rgswig-pravo@git+https://github.com/RGRU/gulp-rgswig-pravo.git",
+    "rawSpec": "git+https://github.com/RGRU/gulp-rgswig-pravo.git",
     "scope": null,
-    "spec": "git+https://github.com/nanomen/gulp-rgswig.git",
+    "spec": "git+https://github.com/RGRU/gulp-rgswig-pravo.git",
     "type": "hosted"
   },
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "git+https://github.com/nanomen/gulp-rgswig.git#5d2fef1a467039111495242a3a38fb8ce4bc0de4",
+  "_resolved": "git+https://github.com/RGRU/gulp-rgswig-pravo.git#5d2fef1a467039111495242a3a38fb8ce4bc0de4",
   "_shasum": "98f693123884693d524cfe7e27effcbfaf48ef0d",
   "_shrinkwrap": null,
-  "_spec": "gulp-rgswig@git+https://github.com/nanomen/gulp-rgswig.git",
+  "_spec": "gulp-rgswig@git+https://github.com/RGRU/gulp-rgswig-pravo.git",
   "_where": "/var/www/pravo",
   "author": {
     "name": "RG team"
   },
   "bugs": {
-    "url": "https://github.com/nanomen/gulp-rgswig/issues"
+    "url": "https://github.com/RGRU/gulp-rgswig-pravo/issues"
   },
   "dependencies": {
     "event-stream": "~3.0.15",
@@ -81,7 +81,7 @@
     "node": ">= 0.4.0"
   },
   "gitHead": "5d2fef1a467039111495242a3a38fb8ce4bc0de4",
-  "homepage": "https://github.com/nanomen/gulp-rgswig#readme",
+  "homepage": "https://github.com/RGRU/gulp-rgswig-pravo#readme",
   "keywords": [
     "gulpplugin",
     "swig"
@@ -93,7 +93,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nanomen/gulp-rgswig.git"
+    "url": "git+https://github.com/RGRU/gulp-rgswig-pravo.git"
   },
   "version": "0.1.0"
 }
